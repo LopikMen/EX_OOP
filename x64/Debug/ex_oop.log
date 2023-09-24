@@ -1,0 +1,7 @@
+﻿  ConsoleCreator.cpp
+C:\Users\Взрослая академия\Documents\Родякин\ex_oop\ConsoleCreator.cpp(5,5): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Взрослая академия\Documents\Родякин\ex_oop\ConsoleCreator.cpp(84,6): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Взрослая академия\Documents\Родякин\ex_oop\ConsoleCreator.cpp(75,7): warning C4101: hair: неиспользованная локальная переменная
+C:\Users\Взрослая академия\Documents\Родякин\ex_oop\ConsoleCreator.cpp(109,6): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\Взрослая академия\Documents\Родякин\ex_oop\ConsoleCreator.cpp(92,6): warning C4101: hair: неиспользованная локальная переменная
+  ex_oop.vcxproj -> C:\Users\Взрослая академия\Documents\Родякин\ex_oop\x64\Debug\ex_oop.exe
